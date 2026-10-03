@@ -55,7 +55,7 @@
 
 - **[Portfólio](https://github.com/Pablosillva/portfolio-pablo-silva)**: React, TypeScript, Tailwind CSS e Vite
 - **[Revizzi](https://github.com/Pablosillva/revizzi)**: site para oficina mecânica
-- **Autotech**: projeto web para o setor automotivo
+- **[Autotech](https://autotechcenter.vercel.app/)**: projeto web para o setor automotivo
 
 ---
 
