@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: Pablosillva
           outputs: |
-            dist/github-snake.svg?color_snake=#e11d48&color_dots=#ebedf0,#fecdd3,#fda4af,#fb7185,#e11d48
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f43f5e&color_dots=#161b22,#4c0519,#9f1239,#e11d48,#fb7185
+            dist/github-snake.svg?color_snake=#2563eb&color_dots=#ebedf0,#fecdd3,#fda4af,#fb7185,#e11d48
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#2563ebe&color_dots=#161b22,#4c0519,#9f1239,#e11d48,#fb7185
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
