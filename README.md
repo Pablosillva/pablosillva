@@ -16,14 +16,6 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pablosillva/Pablosillva/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pablosillva/Pablosillva/output/github-snake.svg">
-    <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/Pablosillva/Pablosillva/output/github-snake.svg">
-  </picture>
-</p>
-
 **🛠️ Stacks com que eu trabalho**
 
 <p>
@@ -43,6 +35,15 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VS Code">
 </p>
 
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pablosillva/Pablosillva/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pablosillva/Pablosillva/output/github-snake.svg">
+    <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/Pablosillva/Pablosillva/output/github-snake.svg">
+  </picture>
+</p>
+
 <p>
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=Pablosillva&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablosillva&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas">
@@ -50,7 +51,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+**🚀 Projetos em destaque**
 
 - **[Portfólio](https://github.com/Pablosillva/portfolio-pablo-silva)**: React, TypeScript, Tailwind CSS e Vite
 - **[Revizzi](https://github.com/Pablosillva/revizzi)**: site para oficina mecânica
@@ -58,7 +59,7 @@
 
 ---
 
-## 🎯 Objetivo
+**🎯 Objetivo**
 
 Conquistar minha primeira vaga como **Desenvolvedor Full Stack**, unindo a base técnica da faculdade com a vivência real de oficina para criar soluções que resolvem problemas de verdade.
 
